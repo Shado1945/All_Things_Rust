@@ -1,0 +1,1 @@
+C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\guessing_game\target\debug\guessing_game.exe: C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\guessing_game\src\main.rs
