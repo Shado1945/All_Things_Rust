@@ -1,0 +1,1 @@
+C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\variables_mutability\target\debug\variables_mutability.exe: C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\variables_mutability\src\main.rs
