@@ -1,0 +1,1 @@
+C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\compound_types\target\debug\compound_types.exe: C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\Practise\compound_types\src\main.rs
