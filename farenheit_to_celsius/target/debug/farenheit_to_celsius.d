@@ -1,0 +1,1 @@
+C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\farenheit_to_celsius\target\debug\farenheit_to_celsius.exe: C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\farenheit_to_celsius\src\main.rs
