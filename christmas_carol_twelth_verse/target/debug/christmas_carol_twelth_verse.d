@@ -1,0 +1,1 @@
+C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\christmas_carol_twelth_verse\target\debug\christmas_carol_twelth_verse.exe: C:\Users\viljo\Desktop\Programming\Rust\All_Things_Rust\christmas_carol_twelth_verse\src\main.rs
