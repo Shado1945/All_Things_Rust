@@ -1,0 +1,105 @@
+Stage 1: Strengthen Core Concepts (Ownership, Borrowing, Structs, Enums, Modules)
+
+Small but powerful — each one takes a few hours.
+
+CLI Calculator
+Learn: Functions, enums, pattern matching, input parsing
+➜ Build a simple command-line calculator that supports + - * / and parentheses.
+
+Todo List App (CLI)
+Learn: Structs, vectors, borrowing, file I/O
+➜ Add, remove, and list tasks. Save them to a JSON or text file.
+
+Guess the Number (Expanded)
+Learn: Ownership + modularization
+➜ Expand the Rust Book example — store player stats (attempts, streaks) and persist between runs.
+
+CSV Summarizer
+Learn: Reading files, error handling, iterators
+➜ Load a .csv, count rows, compute averages, and print a small report.
+
+Text Analyzer
+Learn: HashMap, ownership, iterators
+➜ Count word frequency in a text file (case-insensitive, ignore punctuation).
+
+🧱 Stage 2: Structs, Traits, and Error Handling
+
+Now you’ll get more abstract and think in Rust’s model of design.
+
+Bank Account Simulator
+Learn: Structs, traits, methods, encapsulation, lifetimes
+➜ Implement deposits, withdrawals, and interest accrual with proper error handling.
+
+Command-line Notes App
+Learn: File I/O, serialization (serde), JSON
+➜ Save notes with timestamps, search through them via CLI.
+
+Mini Logger Library
+Learn: Traits, generics, modules
+➜ Build a small logging utility that writes to console and file.
+
+Simple Config Parser
+Learn: String parsing, enums, pattern matching
+➜ Parse a .ini or .toml-like config file into a structured HashMap.
+
+File Sync Tool (Local)
+Learn: Borrowing, filesystem traversal (std::fs, walkdir)
+➜ Compare two folders and list changed/missing files.
+
+⚙️ Stage 3: Intermediate — Ownership, Concurrency, Networking
+
+These get you into the meat of Rust.
+
+Multithreaded Downloader
+Learn: Threads, channels, reqwest crate
+➜ Download multiple URLs concurrently and show progress.
+
+Chat Server (TCP)
+Learn: Networking (std::net), threads, synchronization (Mutex, Arc)
+➜ Simple text-based chat server with multiple clients.
+
+HTTP Server from Scratch
+Learn: Streams, parsing, threading
+➜ Handle basic GET requests and serve files from a folder.
+
+Weather CLI App
+Learn: Async, HTTP APIs, serde, tokio
+➜ Fetch weather data from an API and format it nicely in the terminal.
+
+JSON Database
+Learn: Serialization, file locking, mutation safely
+➜ CRUD operations on a JSON file, like a mini key-value store.
+
+🚀 Stage 4: Advanced Projects (Async, Traits, Error Handling, Libraries)
+
+You’ll start thinking like a real Rust engineer here.
+
+REST API with Axum
+Learn: Async, error handling, web dev patterns
+➜ Build a small API with endpoints for users, todos, etc.
+
+File Indexer (Search Engine)
+Learn: Data structures, tokenization, efficient lookups
+➜ Index all words in .txt files and let user search for phrases.
+
+CLI Git Clone (Simplified)
+Learn: Networking, hashing (SHA1), command execution
+➜ Clone remote repos and store commits locally (simplified).
+
+Multithreaded Image Processor
+Learn: Parallelism, channels, memory management
+➜ Apply grayscale or blur filters using multiple threads.
+
+Mini Game (Text-based RPG)
+Learn: Enums, state machines, modular code
+➜ Simple combat system with items, enemies, and turns.
+
+🧭 Suggested Path (if you want order)
+Week	Focus	Project(s)
+1	Core Rust refresh	#1–#3
+2	File & data handling	#4–#5
+3	Structs, traits, modules	#6–#9
+4	Ownership & filesystem	#10
+5	Concurrency + Networking	#11–#13
+6	Async & APIs	#14–#15
+7–8	Frameworks & design	#16–#20
